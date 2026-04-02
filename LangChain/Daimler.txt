@@ -1,0 +1,23 @@
+Dealer Onboarding and Financial Processes at Daimler
+
+Daimler utilizes a structured and systematic approach for onboarding dealers through the Dealer Profile module. This module serves as the initial entry point for registering new dealers into the system and capturing all relevant information required for further processing and verification.
+
+Within the Dealer Profile, detailed information about the dealer is collected. This includes personal details such as first name and last name, as well as business-related attributes like the type of franchise and line of business. In addition, geographic information such as country and region is recorded to ensure proper classification and compliance with regional regulations. Contact details, including the dealer’s mobile number, are also captured to facilitate communication and authentication throughout the onboarding process.
+
+The Dealer Profile module plays a critical role in ensuring data accuracy and completeness. Validation checks are often applied to ensure that mandatory fields are filled and that the data entered adheres to predefined formats. This helps in reducing errors and ensures a smooth transition to downstream processes.
+
+Once the dealer onboarding process is initiated and the basic profile is successfully created, the dealer is transitioned to the Electronic Fund Transfer (EFT) stage. EFT is a crucial component of the financial onboarding process, as it enables secure and efficient handling of monetary transactions between Daimler and the dealer.
+
+During the EFT stage, the dealer is required to provide detailed banking information, including bank account number, bank name, branch details, and other relevant financial identifiers. This information is securely stored and used for transactions such as payments, reimbursements, and credit disbursements. Proper validation and verification mechanisms are in place to ensure the authenticity of the bank details provided.
+
+Based on predefined eligibility criteria, Daimler may extend credit facilities to the dealer. These criteria can include factors such as the dealer’s financial standing, transaction history, compliance with documentation requirements, and overall business performance. The credit approval process is designed to minimize risk while enabling dealers to operate efficiently and grow their business.
+
+In addition to onboarding and financial setup, Daimler offers incentive programs to encourage and reward dealer performance. One such program is the Volume Incentive Program (VIP). The VIP program is designed to provide incentives to dealers based on their purchase volumes over a defined period, typically evaluated on a quarterly basis.
+
+The VIP program includes clearly defined eligibility and ineligibility criteria. Dealers must meet specific thresholds and conditions to qualify for incentives. These conditions may include minimum purchase volumes, adherence to compliance standards, and timely completion of required processes. Dealers who do not meet these criteria may be deemed ineligible for the program during that period.
+
+The management of the VIP program is handled through a dedicated module known as VIP. This module is responsible for tracking dealer performance, calculating incentives, and ensuring that all program rules are consistently applied. It also provides transparency by allowing dealers and administrators to view performance metrics, eligibility status, and incentive payouts.
+
+Overall, the integration of Dealer Profile, EFT, and VIP modules creates a comprehensive ecosystem that supports dealer onboarding, financial management, and performance incentivization. This structured approach not only improves operational efficiency but also enhances the overall dealer experience by providing clear processes, timely incentives, and reliable financial transactions.
+
+This document is about the workflow of dealer on-boarding taking place in Daimler Trucks

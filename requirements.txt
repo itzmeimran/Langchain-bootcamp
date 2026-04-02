@@ -7,3 +7,4 @@ python-dotenv
 langchain-google-vertexai
 langgraph
 langgraph-checkpoint
+faiss-cpu
